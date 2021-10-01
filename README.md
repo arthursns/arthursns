@@ -1,5 +1,4 @@
 <h1 align="center">Olá 👋, me chamo Arthur Silva</h1>
-<h3 align="center">Amante de carros, tecnologia e programação</h3>
 
 - 🌱 Calouro de Engenharia de Computação na [UNIVESP](https://univesp.br)
 
