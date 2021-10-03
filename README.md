@@ -2,7 +2,7 @@
 
 - 🌱 Calouro de Engenharia de Computação na [UNIVESP](https://univesp.br/cursos/engenharia-de-computacao/) 2021 - 2025
 
-- 🌱 Técnico de Informática pelo [ITB](https://fieb.edu.br/curso/informatica/) 2018 - 2020
+- 🌱 Técnico de Informática pela [FIEB](https://fieb.edu.br/curso/informatica/) 2018 - 2020
 
 - 💪 Atualmente estou aprendendo **Django e Python**
 
